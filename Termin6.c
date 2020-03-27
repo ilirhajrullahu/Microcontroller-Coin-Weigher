@@ -317,12 +317,3 @@ int MessungderMasse(void)
 	return result ;
 
 }
-
-
-
-
-
-
-
-
-
